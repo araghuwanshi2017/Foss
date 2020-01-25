@@ -23,7 +23,8 @@
     <input type="password" name="confirmpassword" />
     <br />
     <input type="submit" value="Submit" />
-    {{ username }}
+    
+    <a href="login.vue"> <h1>Login </h1> </a> 
   </form>
 </template>
 
